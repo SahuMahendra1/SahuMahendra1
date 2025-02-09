@@ -1,5 +1,3 @@
-Hola, I'm Mahendra Sahu!
-
 My name is Mahendra Sahu and I am a Senior Security Data Engineer at Veradigm.
 
 🔭 I’m currently working on something special.
